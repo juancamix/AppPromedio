@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PrimeraAplicacion</string>
+    <string name="text1">Mensaje</string>
+    <string name="exit">Salir</string>
+    <string name="name">Saludo App</string>
+    <string name="text2">Ingrese su nombre:</string>
+    <string name="btn1">Ingresar en esta pantalla</string>
+    <string name="btn2">Ingresar en otra pantalla</string>
+    <string name="bntMaths">Calcular promedio</string>
+    <string name="text1_Maths">Calculo Promedio</string>
+    <string name="txt2_Maths">Ingresa materia:</string>
+    <string name="note1">Ingrese nota 1:</string>
+    <string name="note2">Ingrese nota 2:</string>
+    <string name="note3">Ingrese nota 3:</string>
+    <string name="result">Resultado</string>
+</resources>
